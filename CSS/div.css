@@ -1,0 +1,80 @@
+
+.divContent
+{
+
+margin:auto;
+width: 86%;
+height: 70%;
+margin-top: 20px; /*this pushed the box down 20 percent from the top*/
+background-color: rgba(150, 150, 150, 0.3); /*fades the background of the div*/
+border-radius: 10px;
+padding: 20px;
+
+font-family: arial;
+font-size: 17px;
+
+}
+
+.divContent p{
+margin-left: 20px;
+margin-right: 20px;
+color: white;
+}
+
+.divContent p q{
+color: red;
+}
+
+.divContent p em{
+color: yellow;
+}
+
+
+.divContent a{
+color: white;
+}
+
+.boxOne{
+width: 28.33%;
+height: 30%;
+background-color: rgba(0, 250, 0, 0.3);
+float: left;
+padding-left: 1.33%;
+margin: 19px;
+border-radius: 10px;
+}
+
+.boxOne ol ul{
+margin: 20px;
+padding: 3px;
+}
+
+
+.boxTwo{
+width: 28.33%;
+height: 30%;
+background-color: rgba(100, 0, 0, 0.6);
+float: left;
+padding-left: 1.33%;
+margin: 19px;
+border-radius: 10px;
+}
+
+.boxTwo ol ul{
+margin: 25px;
+
+}
+
+.boxThree{
+width: 28.33%;
+height: 30%;
+background-color: rgba(0, 0, 250, 0.3);
+float: left;
+padding-left: 1.33%;
+margin: 19px;
+border-radius: 10px;
+}
+
+.boxThree ol ul{
+margin: 25px;
+}
